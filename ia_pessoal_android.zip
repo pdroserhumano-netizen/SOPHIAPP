@@ -1,0 +1,17 @@
+Este é um pacote pronto para Flutter (Android 11+) com chat e botão de áudio.
+
+Estrutura:
+- lib/main.dart  -> código principal do app
+- pubspec.yaml  -> dependências
+- README.md     -> instruções rápidas
+
+Para usar:
+1. Baixe e descompacte a pasta.
+2. Abra no VS Code ou Android Studio.
+3. Rode `flutter pub get`.
+4. Conecte seu celular Android 11+ via USB.
+5. Rode `flutter run`.
+6. Configure sua OpenAI API Key no app (⚙️).
+
+Obs: Você também pode gerar APK com `flutter build apk --release` para instalar diretamente no celular.
+
